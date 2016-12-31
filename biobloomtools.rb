@@ -6,6 +6,7 @@ class Biobloomtools < Formula
 
   url "https://github.com/bcgsc/biobloom/releases/download/2.0.13/biobloomtools-2.0.13.tar.gz"
   sha256 "7b4aeef70feb3fc31db2f4695159523272eadd8787b33c2902e2970a7d569ba3"
+  revision 1
 
   bottle do
     cellar :any
